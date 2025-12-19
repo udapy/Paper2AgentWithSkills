@@ -1,0 +1,6 @@
+google-generativeai
+chromadb
+docling
+pypdf
+fpdf
+setuptools

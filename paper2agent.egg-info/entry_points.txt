@@ -1,0 +1,2 @@
+[console_scripts]
+paper2agent = paper2agent.cli:main

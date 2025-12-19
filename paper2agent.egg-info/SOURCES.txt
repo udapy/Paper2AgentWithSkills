@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+paper2agent/__init__.py
+paper2agent/cli.py
+paper2agent/orchestrator.py
+paper2agent/ui.py
+paper2agent.egg-info/PKG-INFO
+paper2agent.egg-info/SOURCES.txt
+paper2agent.egg-info/dependency_links.txt
+paper2agent.egg-info/entry_points.txt
+paper2agent.egg-info/requires.txt
+paper2agent.egg-info/top_level.txt
+tests/test_e2e.py
+tests/test_integrity.py
+tests/test_multi_model.py
+tests/test_scanner.py

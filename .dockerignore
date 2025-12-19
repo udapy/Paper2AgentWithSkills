@@ -1,0 +1,12 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+legacy_archive/
+.git
+.DS_Store
+skills_db/
+knowledge_db/

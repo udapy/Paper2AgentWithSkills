@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: paper2agent
+Version: 0.1.0
+Summary: Paper2AgentSkills with R-ASAA: Robust Adaptive Skill-Accretion Architecture
+Requires-Python: >=3.12
+License-File: LICENSE
+Requires-Dist: google-generativeai>=0.3.0
+Requires-Dist: chromadb>=0.4.0
+Requires-Dist: docling>=2.4.0
+Requires-Dist: pypdf>=3.0.0
+Requires-Dist: fpdf
+Requires-Dist: pydantic>=2.0
+Requires-Dist: gradio>=6.1.0
+Requires-Dist: huggingface-hub>=0.36.0
+Requires-Dist: mlx-llm>=1.0.9
+Requires-Dist: mlx-lm>=0.29.1
+Dynamic: license-file
