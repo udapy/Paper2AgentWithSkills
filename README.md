@@ -1,3 +1,7 @@
+> [<img src="https://img.shields.io/badge/IMPORTANT-Experimental_Research_Preview_-red">]()
+> 
+> This repository is currently facilitating active experiments with the **Robust Adaptive Skill-Accretion (R-ASA)** architecture. We are evaluating multiple approaches to dynamic skill synthesis and verification. Please expect rapid iterations and breaking changes as the core ideas evolve.
+
 # Paper2Agent with Skills: Robust Adaptive Skill-Accretion
 
 > **Note:** This project is an architectural evolution of [Paper2Agent](https://github.com/jmiao24/Paper2Agent) by `jmiao24`. It transforms the original Static Server Model into an Adaptive Skill-Accretion Model.
@@ -211,7 +215,7 @@ Below is the original README for the `Paper2Agent` project, which serves as the 
 
 ## 📖 Overview
 
-`Paper2Agent` is a multi-agent AI system that automatically transforms research papers into interactive AI agents with minimal human input.
+"Paper2Agent with Skills is an experimental architectural evolution of the original system, featuring a Robust Adaptive Skill-Accretion (R-ASA) engine. It transforms research papers into active agents that dynamically synthesize, verify, and memorize executable skills, ensuring scientific robustness through self-correction and integrity checks."
 
 ## 🚀 Quick Start
 
